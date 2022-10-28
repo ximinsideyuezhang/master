@@ -21,7 +21,7 @@ import java.util.Map;
 @Controller
 @RequestMapping("/student")
 public class StudentController {
-
+    private static final String test = "student/test";
 
     private static final String LIST = "student/list";
     private static final String ADD = "student/add";
