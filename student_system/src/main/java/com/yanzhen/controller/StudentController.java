@@ -5,7 +5,6 @@ import com.yanzhen.entity.*;
 import com.yanzhen.entity.Student;
 import com.yanzhen.service.ClazzService;
 import com.yanzhen.service.StudentService;
-import com.yanzhen.service.StudentService;
 import com.yanzhen.service.SubjectService;
 import com.yanzhen.utils.MapControll;
 import org.slf4j.Logger;
